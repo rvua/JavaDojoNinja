@@ -1,5 +1,0 @@
-INDEX VERSION 1.131
-/Users/RV-Code-User/Desktop/DojosNinjasJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1757447546.index
-/dojosninjas/src/main/java
-/Users/RV-Code-User/Desktop/DojosNinjasJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2511924714.index
-/pokebook/src/main/java

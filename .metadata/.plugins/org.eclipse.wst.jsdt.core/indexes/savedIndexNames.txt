@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+/Users/RV-Code-User/Desktop/coding_dojo/WF2021/Java/Java_Spring/Spring_Relationships/DojosNinjasJava/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-643110852.index
-1092125834.index
-3009480318.index
-3087588919.index
-2594347181.index
