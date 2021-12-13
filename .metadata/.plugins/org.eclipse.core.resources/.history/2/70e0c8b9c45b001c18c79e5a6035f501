@@ -1,0 +1,20 @@
+package com.codingdojo.dojosninjas.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import com.codingdojo.dojosninjas.services.dojoService;
+import com.codingdojo.dojosninjas.services.ninjaService;
+
+@Controller 
+public class HomeController {
+	
+	@Autowired
+	dojoService dojoServ;
+	private final ninjaService ninjaServ;
+	
+	public HomeController(ninjaService ninjaServ) {
+		this.ninjaServ = ninjaServ;
+	}
+	
+}
